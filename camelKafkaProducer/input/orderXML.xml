@@ -1,0 +1,72 @@
+<Orders>
+    <Order>
+        <OrderId>1001</OrderId>
+        <customerName>Ankit Raj</customerName>
+        <productName>Table Lamp</productName>
+        <quantity>2</quantity>
+        <OrderDate>2025-01-10</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1002</OrderId>
+        <customerName>Rahul Singh</customerName>
+        <productName>Wooden Chair</productName>
+        <quantity>1</quantity>
+        <OrderDate>2025-01-11</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1003</OrderId>
+        <customerName>Sneha Sharma</customerName>
+        <productName>Sofa Cover</productName>
+        <quantity>3</quantity>
+        <OrderDate>2025-01-12</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1004</OrderId>
+        <customerName>Priya Mehta</customerName>
+        <productName>Bookshelf</productName>
+        <quantity>1</quantity>
+        <OrderDate>2025-01-13</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1005</OrderId>
+        <customerName>Aman Verma</customerName>
+        <productName>Coffee Table</productName>
+        <quantity>2</quantity>
+        <OrderDate>2025-01-14</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1006</OrderId>
+        <customerName>Rohan Gupta</customerName>
+        <productName>Bedside Drawer</productName>
+        <quantity>1</quantity>
+        <OrderDate>2025-01-15</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1007</OrderId>
+        <customerName>Neha Tiwari</customerName>
+        <productName>Flower Vase</productName>
+        <quantity>4</quantity>
+        <OrderDate>2025-01-16</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1008</OrderId>
+        <customerName>Aditya Jain</customerName>
+        <productName>Cushion Set</productName>
+        <quantity>5</quantity>
+        <OrderDate>2025-01-17</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1009</OrderId>
+        <customerName>Kritika Reddy</customerName>
+        <productName>Office Chair</productName>
+        <quantity>1</quantity>
+        <OrderDate>2025-01-18</OrderDate>
+    </Order>
+    <Order>
+        <OrderId>1010</OrderId>
+        <customerName>Manish Kumar</customerName>
+        <productName>Wall Clock</productName>
+        <quantity>2</quantity>
+        <OrderDate>2025-01-19</OrderDate>
+    </Order>
+</Orders>
